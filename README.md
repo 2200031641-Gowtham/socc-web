@@ -60,6 +60,4 @@ You can start developing by modifying components in the `components` directory. 
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Testing branch actions
